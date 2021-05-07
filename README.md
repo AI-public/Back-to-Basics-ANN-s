@@ -1,7 +1,7 @@
 
 # Deeper-into-Basics : The CNN Autoencoder
 
-What's inside a simpleCNN autoencoder, mostly as basis for further work 
+Dissection of a simpleCNN autoencoder, mostly as basis for further work 
 
 
 usually :
