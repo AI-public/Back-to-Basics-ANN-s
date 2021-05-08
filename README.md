@@ -1,5 +1,5 @@
 
-# Deeper-into-Basics : The CNN Autoencoder
+# Deep-into-Basics : The CNN Autoencoder
 
 Dissection of a simpleCNN autoencoder, mostly as basis for further work 
 
@@ -14,8 +14,8 @@ Hence, 3 parts are distinguished:
 And thats it!
 
 
-However, the ideas are WAY more interesting than the 3 points just mentionned.
 
+However, there are many ideas, WAY more interesting than the 3 points just mentionned.
 Lets discover some of the hidden histories of the basic CNN-Autoencoder
 
 
