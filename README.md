@@ -1,4 +1,5 @@
 
+## WORK AREA ##
 # Deep-into-Basics : The CNN Autoencoder
 
 Dissection of a simpleCNN autoencoder, mostly as basis for further work 
@@ -20,7 +21,7 @@ Lets discover some of the hidden histories of the basic CNN-Autoencoder
 
 
 to begin with we will be using a simple CNN autoencoder that works with handwritten numbers.
-The autoencoder is already trained , the file xxx.hdf5 contains all the weights
+The autoencoder is already trained , the *.hdf5 contains all the weights
 and biases, required by the sequential model called " Autoencoder".
 
 
